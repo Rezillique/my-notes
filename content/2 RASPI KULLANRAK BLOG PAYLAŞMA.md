@@ -361,3 +361,19 @@ Bu scripti kendim hazırlamadım o yüzden bazı şeylerin çalışmaması norma
 ![[Screenshot 2024-12-28 095544.png]]
 
 İLK GÜNÜN ÇALIŞTIĞINI GÖREBİLİYORUM. Nedense bugün geçmedi terminalde bazı hatalar var onları da yarın bakarım. Bu işin daha kolay yolu hosting almam olacak sanırım ama o kısım için beklemek durumundayım bugünlük paydos.
+
+<script src="https://giscus.app/client.js"
+        data-repo="Rezillique/my-notes"
+        data-repo-id="R_kgDONjvPNw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDONjvPN84ClpQq"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
