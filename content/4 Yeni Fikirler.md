@@ -1,5 +1,5 @@
 ---
-title: 0'dan 100'e Çıkış
+title: 4. 0'dan 100'e Çıkış
 draft: false
 tags:
   - değişiklik

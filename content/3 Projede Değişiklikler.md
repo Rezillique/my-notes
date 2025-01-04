@@ -1,5 +1,5 @@
 ---
-title: Projede Değişiklikler
+title: 3. Projede Değişiklikler
 date: 2024-12-29
 draft: false
 tags:

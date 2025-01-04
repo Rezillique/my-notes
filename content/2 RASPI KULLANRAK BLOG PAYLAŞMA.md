@@ -1,5 +1,5 @@
 ---
-title: Blogu sitede yayınlama
+title: 2. Blogu sitede yayınlama
 date: 2024-12-28
 draft: false
 tags:
